@@ -1,0 +1,934 @@
+<-------2019-05-18 15:51:24.587660------->
+KNN8.py -o firstKnn.dim
+Etalons: 26, classes: 6, neighbors: 6
+Execution time is 1.191671
+
+<-------2019-05-18 16:00:42.193716------->
+KNN8.py -o SecondKnn.dim
+<-------2019-05-18 16:02:16.031777------->
+KNN8.py -o SecondKnn.dim
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 1
+Execution time is 0.938820
+
+<-------2019-05-18 16:13:58.790010------->
+KNN8.py -o ThirdKnn.dim
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 10
+Execution time is 1.217222
+
+<-------2019-05-18 16:28:50.572297------->
+KNN8.py -o FourthKnn.dim
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 3
+Execution time is 1.082516
+
+<-------2019-05-18 17:02:31.510481------->
+KNN8.py
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 3
+[0.75 0.5  0.7 ] , [0.61111111 0.41666667 0.56666667], [0.66666667 0.55555556 0.5       ]
+Execution time is 1.030277
+<-------2019-05-18 17:09:11.999947------->
+KNN8.py -n 7
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 7
+[0.66666667 0.91666667 0.58333333] , [0.55555556 0.91666667 0.75      ], [0.55555556 0.88888889 0.625     ]
+Execution time is 1.089784
+<-------2019-05-18 17:13:13.666427------->
+KNN8.py -n 4
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 4
+[0.25       0.33333333 0.33333333] , [0.22222222 0.2        0.43333333], [0.33333333 0.33333333 0.5       ]
+Execution time is 1.091747
+
+<-------2019-05-18 17:14:58.451681------->
+KNN8.py -n 4
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 4
+[0.4        0.75       0.52777778] , [0.45       0.83333333 0.55555556], [0.44444444 0.88888889 0.625     ]
+Execution time is 1.018601
+
+<-------2019-05-18 17:17:07.497937------->
+KNN8.py -n 4
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 4
+[0.45 0.7  1.  ] , [0.48 0.68 1.  ], [0.55555556 0.66666667 1.        ]
+Execution time is 1.107182
+
+<-------2019-05-18 18:03:03.824682------->
+KNN8.py -n 3 -o newpoints.out -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 3
+<-------2019-05-18 18:03:34.751206------->
+KNN8.py -n 3 -o newpoints.out -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 3
+scores: [0.5 0.5 0.5] , [0.47222222 0.30555556 0.41666667], [0.5        0.42857143 0.57142857]
+Execution time is 1.094544
+
+<-------2019-05-18 18:05:14.023402------->
+KNN8.py -n 3 -o newpoints.out -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 3
+scores: [0.5 0.5 0.5] , [0.47222222 0.30555556 0.41666667], [0.5        0.42857143 0.57142857]
+Execution time is 1.108490
+
+<-------2019-05-18 18:13:05.284981------->
+KNN8.py -n 3 -o newpoints.out -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 26, classes: 6, neighbors: 3
+scores: [0.5 0.5 0.5] , [0.47222222 0.30555556 0.41666667], [0.5        0.42857143 0.57142857]
+Execution time is 1.099458
+
+<-------2019-05-18 18:15:53.279745------->
+KNN8.py -n 3 -o newpoints.dim -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.66666667 0.91666667] , [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.077436
+
+<-------2019-05-18 18:40:05.554986------->
+KNN8.py -o newpoints3.din -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 38, classes: 6, neighbors: 3
+scores: [0.69444444 0.5        0.75      ] , [0.65       0.45833333 0.69444444], [0.69230769 0.46153846 0.75      ]
+Execution time is 1.109551
+
+<-------2019-05-18 18:43:19.772578------->
+KNN8.py -o newpoints2 -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 37, classes: 6, neighbors: 3
+scores: [0.69444444 0.58333333 0.83333333] , [0.65       0.55555556 0.88888889], [0.69230769 0.58333333 0.83333333]
+Execution time is 1.095411
+
+<-------2019-05-18 18:45:47.556084------->
+KNN8.py -o newpoints4 -c -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.66666667 0.91666667] , [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.171063
+
+<-------2019-05-18 18:54:00.128632------->
+KNN8.py -n 5
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 5
+scores: [0.66666667 0.66666667 0.91666667] , [0.69444444 0.66666667 0.94444444], [0.66666667 0.66666667 0.91666667]
+Execution time is 1.146086
+
+<-------2019-05-18 18:54:57.620565------->
+KNN8.py -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.75       0.66666667 0.91666667] , [0.77777778 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.003340
+
+<-------2019-05-18 19:03:34.606902------->
+KNN8.py -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.75       0.66666667 0.91666667] , [0.77777778 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.001131
+
+<-------2019-05-19 20:14:32.107211------->
+KNN8.py
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.66666667 0.91666667] , [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.190486
+
+<-------2019-05-19 22:15:05.605892------->
+KNN8.py -o brute -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.66666667 0.91666667] , [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.068985
+
+<-------2019-05-19 22:16:11.970266------->
+KNN8.py -o brute2 -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.75       0.66666667 0.91666667] , [0.77777778 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.119415
+
+<-------2019-05-19 22:22:24.014734------->
+KNN8.py -o mahal -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.83333333 0.66666667 0.75      ] , [0.75       0.58333333 0.86111111], [0.83333333 0.66666667 0.75      ]
+Execution time is 3.032379
+
+<-------2019-05-19 22:25:41.894964------->
+KNN8.py -o mahal2 -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.83333333 0.75       0.83333333] , [0.75       0.66666667 0.88888889], [0.83333333 0.75       0.83333333]
+Execution time is 3.327355
+
+<-------2019-05-19 22:33:23.320952------->
+KNN8.py -o euclid -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.75       0.66666667 0.91666667] , [0.77777778 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 0.933419
+
+<-------2019-05-19 22:34:41.785666------->
+KNN8.py -o euclid2 -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.66666667 0.91666667] , [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.044190
+<-------2019-05-19 22:43:57.784098------->
+
+KNN8.py -o cityblock -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.75       0.66666667 0.91666667], [0.77777778 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 0.937681
+<-------2019-05-19 22:45:21.612952------->
+
+KNN8.py -o cityblock -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 1.059401
+
+<-------2019-05-19 22:45:43.226751------->
+KNN8.py -o cityblock -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.75       0.66666667 0.91666667], [0.77777778 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.009822
+
+<-------2019-05-19 22:46:08.322606------->
+KNN8.py -o cityblock2 -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 1.092322
+
+<-------2019-05-19 22:55:54.725928------->
+KNN8.py -o minkovski3 -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.58333333 0.66666667 0.91666667], [0.58333333 0.66666667 0.94444444], [0.58333333 0.66666667 0.91666667]
+Execution time is 5.440692
+
+<-------2019-05-19 22:56:14.086458------->
+KNN8.py -o minkovski33 -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 5.598189
+<-------2019-05-19 23:00:49.593143------->
+KNN8.py -o cheb1 -n 1
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 1
+scores: [0.58333333 0.58333333 0.91666667], [0.58333333 0.52777778 0.94444444], [0.58333333 0.58333333 0.91666667]
+Execution time is 1.079741
+
+<-------2019-05-19 23:01:29.805759------->
+KNN8.py -o cheb3 -n 3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3
+scores: [0.66666667 0.58333333 0.83333333], [0.58333333 0.52777778 0.86111111], [0.66666667 0.58333333 0.83333333]
+Execution time is 1.095578
+
+<-------2019-05-19 23:13:47.492386------->
+KNN8.py -o brightcolours/mah1 -n 1 -p points3.cfg
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 1
+scores: [0.5        1.         0.83333333], [0.41666667 1.         0.75      ], [0.5        1.         0.83333333]
+Execution time is 2.652912
+
+<-------2019-05-19 23:14:57.000899------->
+KNN8.py -o brightcolours/mah3 -n 3 -p points3.cfg
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 3
+scores: [0.5 1.  0.5], [0.41666667 1.         0.41666667], [0.5 1.  0.5]
+Execution time is 2.746864
+
+<-------2019-05-19 23:17:17.295952------->
+KNN8.py -o brightcolours/euc1 -n 1 -p points3.cfg
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 1
+scores: [0.5        1.         0.83333333], [0.41666667 1.         0.75      ], [0.5        1.         0.83333333]
+Execution time is 2.510627
+
+<-------2019-05-19 23:17:37.206155------->
+KNN8.py -o brightcolours/euc3 -n 3 -p points3.cfg
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 3
+scores: [0.5 1.  0.5], [0.41666667 1.         0.41666667], [0.5 1.  0.5]
+Execution time is 2.847248
+
+<-------2019-05-19 23:27:13.290506------->
+KNN8.py -o brightcolours/euc8 -n 8 -p points3.cfg
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 8
+scores: [0.5        0.83333333 0.66666667], [0.48611111 0.75       0.55555556], [0.5        0.83333333 0.66666667]
+Execution time is 2.929598
+
+<-------2019-05-19 23:29:02.211298------->
+KNN8.py -o brightcolours/euc10 -n 10
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 10
+scores: [0.58333333 0.83333333 0.66666667], [0.5        0.75       0.55555556], [0.58333333 0.83333333 0.66666667]
+Execution time is 3.170324
+
+<-------2019-05-19 23:30:03.039080------->
+KNN8.py -o brightcolours/euc12 -n 12
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 12
+scores: [0.58333333 0.66666667 0.66666667], [0.5        0.55555556 0.55555556], [0.58333333 0.66666667 0.66666667]
+Execution time is 3.226805
+
+<-------2019-05-19 23:33:21.889946------->
+KNN8.py -o brightcolours/euc12 -n 12
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 12, metric: euclidean
+scores: [0.5        0.83333333 0.5       ], [0.47222222 0.75       0.41666667], [0.5        0.83333333 0.5       ]
+Execution time is 1.253658
+
+<-------2019-05-19 23:48:01.684718------->
+KNN8.py -o brightcolours/euc12 -n 12 -m euc
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 12, metric: euclidean
+scores: [0.5        0.83333333 0.5       ], [0.47222222 0.75       0.41666667], [0.5        0.83333333 0.5       ]
+Execution time is 1.247303
+
+<-------2019-05-19 23:50:37.971122------->
+KNN8.py -o brightcolours/mah12 -n 12 -m mah
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 12, metric: mahalanobis
+scores: [0.58333333 0.66666667 0.66666667], [0.5        0.55555556 0.55555556], [0.58333333 0.66666667 0.66666667]
+Execution time is 3.356765
+
+<-------2019-05-19 23:53:35.340988------->
+KNN8.py -o brightcolours/mah8 -n 8 -m mah -p points3.cfg
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 8, metric: mahalanobis
+scores: [0.5        0.83333333 0.66666667], [0.48611111 0.75       0.55555556], [0.5        0.83333333 0.66666667]
+Execution time is 3.061944
+
+<-------2019-05-20 00:46:25.745832------->
+KNN8.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -n 3 -m euc -o moscow
+Raster size: 6217 x 4589 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: euclidean
+scores: [0.5        0.83333333 0.5       ], [0.47222222 0.75       0.41666667], [0.5        0.83333333 0.5       ]
+Execution time is 127.583796
+
+<-------2019-05-20 00:59:10.293467------->
+KNN8.py -i moscowsmall.dim -n 3 -m euc -o moscow2
+Raster size: 2479 x 2521 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: euclidean
+scores: [0.5        0.83333333 0.5       ], [0.47222222 0.75       0.41666667], [0.5        0.83333333 0.5       ]
+Execution time is 31.567269
+
+
+
+<-------2019-05-20 11:42:33.956023------->
+KNN8.py -o mah36_12 -n 12 -p points2.cfg -m mah
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 12, metric: mahalanobis
+scores: [0.75       0.66666667 0.58333333], [0.69444444 0.58333333 0.51111111], [0.75       0.66666667 0.58333333]
+Execution time is 3.605752
+
+<-------2019-05-20 11:45:34.662354------->
+KNN8.py -o euc36_12 -n 12 -p points2.cfg -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 12, metric: euclidean
+scores: [0.66666667 0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.66666667 0.66666667 0.91666667]
+Execution time is 1.228475
+
+<-------2019-05-20 11:59:20.608093------->
+KNN8.py -o euc24_12 -n 12 -p points3.cfg -m euc
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 12, metric: euclidean
+scores: [0.5        0.83333333 0.5       ], [0.47222222 0.75       0.41666667], [0.5        0.83333333 0.5       ]
+Execution time is 1.258415
+
+<-------2019-05-20 12:05:45.417733------->
+KNN8.py -o mah24_1 -n 1 -p points3.cfg -m mah
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 1, metric: mahalanobis
+scores: [0.5        1.         0.83333333], [0.41666667 1.         0.75      ], [0.5        1.         0.83333333]
+Execution time is 2.681065
+
+<-------2019-05-20 12:30:35.074037------->
+KNN8.py -p points2.cfg -i moscowsmall.dim -o moscow36 -n 3 -m euc
+Raster size: 2479 x 2521 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+scores: [0.16666667 0.25       0.25      ], [0.2        0.375      0.15277778], [0.16666667 0.25       0.25      ]
+Execution time is 31.787660
+
+<-------2019-05-20 12:31:33.501697------->
+KNN8.py -o mah36_12 -n 12 -p points2.cfg -m mah
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 12, metric: mahalanobis
+scores: [0.75       0.66666667 0.58333333], [0.69444444 0.58333333 0.51111111], [0.75       0.66666667 0.58333333]
+Execution time is 3.620330
+
+<-------2019-05-20 12:32:39.661689------->
+KNN8.py -i moscowsmall.dim -o moscow36 -n 3 -m euc
+Raster size: 2479 x 2521 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 30.747179
+
+<-------2019-06-11 17:14:27.629757------->
+KNN8.py -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 62652.0, Class 2 %: 50424.0, Class 3 %: 36389.0,         Class 4 %: 46726.0, Class 5 %: 22446.0, Class 6 %: 31363.0
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.099472
+
+<-------2019-06-11 17:15:57.335770------->
+KNN8.py -c -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002,         Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.082675
+
+<-------2019-06-11 17:16:49.159790------->
+KNN8.py
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+         Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.096986
+
+<-------2019-06-11 17:20:14.883499------->
+KNN8.py
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.090768
+
+<-------2019-06-19 06:47:39.064788------->
+KNN82.py -n 3 -m man
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.256608, Class 2 %: 0.19846, Class 3 %: 0.151892, 
+Class 4 %: 0.1778, Class 5 %: 0.086592, Class 6 %: 0.12864799999999998
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 1.241448
+
+<-------2019-06-19 06:49:16.314969------->
+KNN82.py -n 3 -m man
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.256608, Class 2 %: 0.19846, Class 3 %: 0.151892, 
+Class 4 %: 0.1778, Class 5 %: 0.086592, Class 6 %: 0.12864799999999998
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 1.246928
+
+<-------2019-06-19 06:49:56.059607------->
+KNN82.py -n 3 -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.320947
+
+<-------2019-06-19 06:50:26.593250------->
+KNN82.py -n 3 -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.273030
+
+<-------2019-06-19 06:51:22.821905------->
+KNN82.py -n 3 -m man
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.256608, Class 2 %: 0.19846, Class 3 %: 0.151892, 
+Class 4 %: 0.1778, Class 5 %: 0.086592, Class 6 %: 0.12864799999999998
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 1.210132
+
+<-------2019-06-19 06:51:50.228516------->
+KNN82.py -n 3 -m man
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.256608, Class 2 %: 0.19846, Class 3 %: 0.151892, 
+Class 4 %: 0.1778, Class 5 %: 0.086592, Class 6 %: 0.12864799999999998
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 1.215467
+
+<-------2019-06-19 06:52:20.490805------->
+KNN82.py -n 3 -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.186180
+
+<-------2019-06-19 06:52:55.890335------->
+KNN82.py -n 3 -m euc
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.188570
+
+<-------2019-06-19 06:53:21.405782------->
+KNN82.py -n 3 -m mi3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: minkowski
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.232258
+
+<-------2019-06-19 06:53:31.031786------->
+KNN82.py -n 3 -m mi3
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: minkowski
+Class 1 %: 0.250608, Class 2 %: 0.201696, Class 3 %: 0.14555600000000002, 
+Class 4 %: 0.186904, Class 5 %: 0.089784, Class 6 %: 0.125452
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 1.194339
+
+<-------2019-06-19 06:53:57.886810------->
+KNN82.py -n 3 -m che
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: chebyshev
+Class 1 %: 0.251228, Class 2 %: 0.214812, Class 3 %: 0.132152, 
+Class 4 %: 0.17834, Class 5 %: 0.096524, Class 6 %: 0.126944
+scores: [0.66666667 0.58333333 0.83333333], [0.58333333 0.52777778 0.86111111], [0.66666667 0.58333333 0.83333333]
+Execution time is 1.194704
+
+<-------2019-06-19 06:54:07.860411------->
+KNN82.py -n 3 -m che
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: chebyshev
+Class 1 %: 0.251228, Class 2 %: 0.214812, Class 3 %: 0.132152, 
+Class 4 %: 0.17834, Class 5 %: 0.096524, Class 6 %: 0.126944
+scores: [0.66666667 0.58333333 0.83333333], [0.58333333 0.52777778 0.86111111], [0.66666667 0.58333333 0.83333333]
+Execution time is 1.232578
+
+<-------2019-06-19 06:54:35.433191------->
+KNN82.py -n 3 -m mah
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: mahalanobis
+Class 1 %: 0.34160399999999996, Class 2 %: 0.201708, Class 3 %: 0.09295999999999999, 
+Class 4 %: 0.19054400000000002, Class 5 %: 0.047020000000000006, Class 6 %: 0.126164
+scores: [0.83333333 0.75       0.83333333], [0.75       0.66666667 0.88888889], [0.83333333 0.75       0.83333333]
+Execution time is 3.339905
+
+<-------2019-06-19 06:57:01.930181------->
+KNN82.py -n 3 -m man -i /home/alexander/Programming/Copernicus/Data/moscow.dim -c
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 64.544238
+
+<-------2019-06-19 06:58:59.077540------->
+KNN82.py -m man
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 65.569853
+
+<-------2019-06-19 07:01:34.015913------->
+KNN82.py -m euc
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.1824172839828989, Class 3 %: 0.21446253433206872, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618675804149154, Class 6 %: 0.05051382566019623
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 133.620948
+
+<-------2019-06-19 07:05:37.298444------->
+KNN82.py -m euc
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.1824172839828989, Class 3 %: 0.21446253433206872, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618675804149154, Class 6 %: 0.05051382566019623
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 134.336282
+
+<-------2019-06-19 07:08:14.888456------->
+KNN82.py -m mi3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: minkowski
+Class 1 %: 0.29627113223630314, Class 2 %: 0.1824172839828989, Class 3 %: 0.21446253433206872, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618675804149154, Class 6 %: 0.05051382566019623
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 139.674720
+
+<-------2019-06-19 07:11:21.083010------->
+KNN82.py -m mi3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: minkowski
+Class 1 %: 0.29627113223630314, Class 2 %: 0.1824172839828989, Class 3 %: 0.21446253433206872, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618675804149154, Class 6 %: 0.05051382566019623
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 135.356025
+
+<-------2019-06-19 07:14:39.754957------->
+KNN82.py -m che
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: chebyshev
+Class 1 %: 0.3166221594231971, Class 2 %: 0.18804304816158451, Class 3 %: 0.16872339822206336, 
+Class 4 %: 0.09353731130309195, Class 5 %: 0.16950510681580702, Class 6 %: 0.06356897607425607
+scores: [0.66666667 0.58333333 0.83333333], [0.58333333 0.52777778 0.86111111], [0.66666667 0.58333333 0.83333333]
+Execution time is 68.224405
+
+<-------2019-06-19 07:17:33.891869------->
+KNN82.py -m che
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: chebyshev
+Class 1 %: 0.3166221594231971, Class 2 %: 0.18804304816158451, Class 3 %: 0.16872339822206336, 
+Class 4 %: 0.09353731130309195, Class 5 %: 0.16950510681580702, Class 6 %: 0.06356897607425607
+scores: [0.66666667 0.58333333 0.83333333], [0.58333333 0.52777778 0.86111111], [0.66666667 0.58333333 0.83333333]
+Execution time is 65.464985
+
+<-------2019-06-19 07:23:10.148328------->
+KNN82.py -m mah
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: mahalanobis
+Class 1 %: 0.2414782389215099, Class 2 %: 0.209130497981182, Class 3 %: 0.10751689820048943, 
+Class 4 %: 0.013929674197303713, Class 5 %: 0.028592125717753564, Class 6 %: 0.39935256498176136
+scores: [0.83333333 0.75       0.83333333], [0.75       0.66666667 0.88888889], [0.83333333 0.75       0.83333333]
+Execution time is 200.041362
+
+<-------2019-06-20 22:11:04.453010------->
+KNN82.py -p points3.cfg -m man -n 3 -i /home/alexander/Programming/Copernicus/Data/moscow.dim
+Raster size: 6217 x 4589 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.37207527438052257, Class 2 %: 0.1634844925201578, Class 3 %: 0.1873269551398742, 
+Class 4 %: 0.12941851388931291, Class 5 %: 0.060946070694539785, Class 6 %: 0.08674869337559275
+scores: [0.58333333 0.5        0.66666667], [0.44444444 0.41666667 0.5       ], [0.58333333 0.5        0.66666667]
+Execution time is 67.315799
+
+<-------2019-06-20 22:14:54.472401------->
+KNN82.py -p points3.cfg -m euc -n 3 -i /home/alexander/Programming/Copernicus/Data/moscow.dim
+Raster size: 6217 x 4589 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.3834923839143285, Class 2 %: 0.13166823070308942, Class 3 %: 0.1810496269288551, 
+Class 4 %: 0.12463762030266375, Class 5 %: 0.06778113126784252, Class 6 %: 0.11137100688322073
+scores: [0.58333333 0.5        0.66666667], [0.47222222 0.41666667 0.5       ], [0.58333333 0.5        0.66666667]
+Execution time is 131.236197
+
+<-------2019-06-20 22:18:56.962668------->
+KNN82.py -p points3.cfg -m mi3 -n 3 -i /home/alexander/Programming/Copernicus/Data/moscow.dim
+Raster size: 6217 x 4589 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: minkowski
+Class 1 %: 0.3834923839143285, Class 2 %: 0.13166823070308942, Class 3 %: 0.1810496269288551, 
+Class 4 %: 0.12463762030266375, Class 5 %: 0.06778113126784252, Class 6 %: 0.11137100688322073
+scores: [0.58333333 0.5        0.66666667], [0.47222222 0.41666667 0.5       ], [0.58333333 0.5        0.66666667]
+Execution time is 132.767018
+
+<-------2019-06-20 22:20:10.743355------->
+KNN82.py -p points3.cfg -m che -n 3 -i /home/alexander/Programming/Copernicus/secondcut.dim
+Raster size: 500 x 500 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: chebyshev
+Class 1 %: 0.215316, Class 2 %: 0.207084, Class 3 %: 0.1325, 
+Class 4 %: 0.250736, Class 5 %: 0.069676, Class 6 %: 0.12468800000000001
+scores: [0.5        0.83333333 0.5       ], [0.36111111 0.75       0.41666667], [0.5        0.83333333 0.5       ]
+Execution time is 1.118335
+
+<-------2019-06-20 22:21:30.224524------->
+KNN82.py -p points3.cfg -m che -n 3 -i /home/alexander/Programming/Copernicus/Data/moscow.dim
+Raster size: 6217 x 4589 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: chebyshev
+Class 1 %: 0.3402883853462341, Class 2 %: 0.1078938021780935, Class 3 %: 0.1997638750734188, 
+Class 4 %: 0.16601580949724415, Class 5 %: 0.08952754089204862, Class 6 %: 0.0965105870129608
+scores: [0.41666667 0.5        0.33333333], [0.36111111 0.33333333 0.16666667], [0.41666667 0.5        0.33333333]
+Execution time is 62.053151
+
+<-------2019-06-20 22:34:25.442614------->
+KNN82.py -p points3.cfg -m mah -n 3 -i /home/alexander/Programming/Copernicus/Data/moscow.dim
+Raster size: 6217 x 4589 pixels
+Etalons: 24, classes: 6, neighbors: 3, metric: mahalanobis
+Class 1 %: 0.3494570749552407, Class 2 %: 0.0817093333209019, Class 3 %: 0.1742395928077061, 
+Class 4 %: 0.23548766337865587, Class 5 %: 0.05311510453994213, Class 6 %: 0.10599123099755332
+scores: [0.41666667 0.33333333 0.5       ], [0.36111111 0.25       0.30555556], [0.41666667 0.33333333 0.5       ]
+Execution time is 207.336057
+
+<-------2019-06-20 23:03:40.277224------->
+KNN84.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -o withNdvi -m euc -n 3 -p points2.cfg
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.0072294900776251145, Class 2 %: 0.28864188489423326, Class 3 %: 0.21698491329052877, 
+Class 4 %: 0.22963462816948713, Class 5 %: 0.09441183508633583, Class 6 %: 0.08195763498344696
+scores: [0.58333333 0.5        0.25      ], [0.42777778 0.44444444 0.22222222], [0.58333333 0.5        0.25      ]
+Execution time is 135.786995
+
+<-------2019-06-20 23:10:21.909336------->
+KNN84.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -o withNdvi2 -m euc -n 3 -p points2.cfg
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.11998347132524143, Class 2 %: 0.2886058874623539, Class 3 %: 0.16535302912781097, 
+Class 4 %: 0.22569527532479794, Class 5 %: 0.09380871160985178, Class 6 %: 0.04295716904979363
+scores: [0.58333333 0.5        0.25      ], [0.42777778 0.44444444 0.22222222], [0.58333333 0.5        0.25      ]
+Execution time is 136.147841
+
+<-------2019-06-21 01:30:44.128813------->
+KNN82.py -p points2.cfg -c -i /home/alexander/Programming/Copernicus/secondcut.dim
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.256608, Class 2 %: 0.19846, Class 3 %: 0.151892, 
+Class 4 %: 0.1778, Class 5 %: 0.086592, Class 6 %: 0.12864799999999998
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 8.379140
+
+<-------2019-06-21 01:33:59.855005------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 144.505812
+
+<-------2019-06-21 01:38:44.841714------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 143.309786
+
+<-------2019-06-21 01:41:13.678181------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 72.954061
+
+<-------2019-06-21 01:44:33.673358------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 110.295373
+
+<-------2019-06-21 01:47:51.595644------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 142.980029
+
+<-------2019-06-21 01:51:49.794034------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 111.678972
+
+<-------2019-06-21 01:54:30.766131------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.289551634986181, Class 2 %: 0.1834851844279526, Class 3 %: 0.2286046529642518, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 74.932775
+
+<-------2019-06-21 01:57:27.850169------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.18241724893184544, Class 3 %: 0.2144616580557328, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618756421572058, Class 6 %: 0.05051393081335654
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 71.101521
+
+<-------2019-06-21 01:59:19.265679------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.18241724893184544, Class 3 %: 0.2144616580557328, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618756421572058, Class 6 %: 0.05051393081335654
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 69.937926
+
+<-------2019-06-21 02:04:00.290337------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.1824172839828989, Class 3 %: 0.21446253433206872, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618675804149154, Class 6 %: 0.05051382566019623
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 143.705716
+
+<-------2019-06-21 02:09:29.993955------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.18241724893184544, Class 3 %: 0.2144616580557328, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618756421572058, Class 6 %: 0.05051393081335654
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 69.773228
+
+<-------2019-06-21 02:13:05.431599------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.29627113223630314, Class 2 %: 0.18241724893184544, Class 3 %: 0.2144616580557328, 
+Class 4 %: 0.10014846574704153, Class 5 %: 0.15618756421572058, Class 6 %: 0.05051393081335654
+scores: [0.75       0.66666667 0.91666667], [0.69444444 0.66666667 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 70.531535
+
+<-------2019-06-21 02:18:26.221152------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.28955114427143286, Class 2 %: 0.1834851844279526, Class 3 %: 0.22860514367899992, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 71.686488
+
+<-------2019-06-21 02:20:41.897650------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.289551634986181, Class 2 %: 0.1834851844279526, Class 3 %: 0.2286046529642518, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 73.309813
+
+<-------2019-06-21 02:22:40.952035------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m man -n 3
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.289551634986181, Class 2 %: 0.1834851844279526, Class 3 %: 0.2286046529642518, 
+Class 4 %: 0.0972422777534504, Class 5 %: 0.15390991171235507, Class 6 %: 0.04720633815580915
+scores: [0.75       0.58333333 0.91666667], [0.69444444 0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 73.772412
+
+<-------2019-06-21 05:17:15.023160------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 6etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.253212, Class 2 %: 0.193252, Class 3 %: 0.160552, 
+Class 4 %: 0.172044, Class 5 %: 0.093092, Class 6 %: 0.127848
+scores: [1.         0.58333333 0.91666667], [1.         0.58333333 0.94444444], [1.         0.58333333 0.91666667]
+Execution time is 1.284809
+
+<-------2019-06-21 05:17:57.845846------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 5etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.257132, Class 2 %: 0.20069599999999999, Class 3 %: 0.21442, 
+Class 4 %: 0.136804, Class 5 %: 0.067952, Class 6 %: 0.122996
+scores: [0.91666667 0.58333333 0.91666667], [0.94444444 0.58333333 0.94444444], [0.91666667 0.58333333 0.91666667]
+Execution time is 1.150656
+
+<-------2019-06-21 05:22:03.525052------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 4etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.251744, Class 2 %: 0.17432, Class 3 %: 0.315064, 
+Class 4 %: 0.123016, Class 5 %: 0.066168, Class 6 %: 0.069688
+scores: [0.83333333 0.91666667 0.75      ], [0.72222222 0.94444444 0.69444444], [0.83333333 0.91666667 0.75      ]
+Execution time is 1.066151
+
+<-------2019-06-21 05:24:51.899246------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 3etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.27295600000000003, Class 2 %: 0.18149600000000002, Class 3 %: 0.308824, 
+Class 4 %: 0.11244, Class 5 %: 0.048659999999999995, Class 6 %: 0.075624
+scores: [0.83333333 0.91666667 0.91666667], [0.72222222 0.94444444 0.94444444], [0.83333333 0.91666667 0.91666667]
+Execution time is 1.089748
+
+<-------2019-06-21 05:30:51.168423------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 2etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.287812, Class 2 %: 0.16772, Class 3 %: 0.311924, 
+Class 4 %: 0.092792, Class 5 %: 0.046756, Class 6 %: 0.092996
+scores: [0.83333333 0.75       0.91666667], [0.91666667 0.80555556 0.94444444], [0.83333333 0.75       0.91666667]
+Execution time is 0.937175
+
+<-------2019-06-21 05:32:51.242195------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 1etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.2539, Class 2 %: 0.133744, Class 3 %: 0.259868, 
+Class 4 %: 0.071816, Class 5 %: 0.145224, Class 6 %: 0.135448
+scores: [0.66666667 0.66666667 0.91666667], [0.67777778 0.75       0.94444444], [0.66666667 0.66666667 0.91666667]
+Execution time is 0.901958
+
+<-------2019-06-21 05:35:26.226497------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m man -n 3 -o 126etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: cityblock
+Class 1 %: 0.23080799999999999, Class 2 %: 0.19369999999999998, Class 3 %: 0.17162799999999998, 
+Class 4 %: 0.185208, Class 5 %: 0.075268, Class 6 %: 0.14338800000000002
+scores: [0.75       0.66666667 0.91666667], [0.75       0.47222222 0.94444444], [0.75       0.66666667 0.91666667]
+Execution time is 0.996539
+
+<-------2019-06-21 05:38:38.511943------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m euc -n 3 -o 126etal -p points2.cfg
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.233964, Class 2 %: 0.194332, Class 3 %: 0.167544, 
+Class 4 %: 0.176792, Class 5 %: 0.079724, Class 6 %: 0.147644
+scores: [0.75       0.58333333 0.91666667], [0.75       0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 0.987201
+
+<-------2019-06-21 05:39:13.111269------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m euc -n 3 -o 126etal -p points2.cfg -c
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.233964, Class 2 %: 0.194332, Class 3 %: 0.167544, 
+Class 4 %: 0.176792, Class 5 %: 0.079724, Class 6 %: 0.147644
+scores: [0.75       0.58333333 0.91666667], [0.75       0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 0.971692
+
+<-------2019-06-21 05:40:57.518692------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3 -o 126etal -p points2.cfg -c
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.1475494774536377, Class 2 %: 0.24907909491029612, Class 3 %: 0.3295251181632351, 
+Class 4 %: 0.10325794985056509, Class 5 %: 0.07055976847797775, Class 6 %: 0.10002859114428826
+scores: [0.5        0.33333333 0.33333333], [0.5        0.25       0.28333333], [0.5        0.33333333 0.33333333]
+Execution time is 44.119682
+
+<-------2019-06-21 05:42:29.970666------->
+KNN82.py -i /home/alexander/Programming/Copernicus/secondcut.dim -m euc -n 3 -o 126etal -p points2.cfg -c
+Raster size: 500 x 500 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.233964, Class 2 %: 0.194332, Class 3 %: 0.167544, 
+Class 4 %: 0.176792, Class 5 %: 0.079724, Class 6 %: 0.147644
+scores: [0.75       0.58333333 0.91666667], [0.75       0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 0.968807
+
+<-------2019-06-21 05:44:56.358655------->
+KNN82.py -i /home/alexander/Programming/Copernicus/Data/moscow.dim -m euc -n 3 -o 126etal
+Raster size: 6217 x 4589 pixels
+Etalons: 36, classes: 6, neighbors: 3, metric: euclidean
+Class 1 %: 0.27148362311382834, Class 2 %: 0.1792058714159816, Class 3 %: 0.2148420671386805, 
+Class 4 %: 0.12873757707419956, Class 5 %: 0.15528790882716265, Class 6 %: 0.05044295243014737
+scores: [0.75       0.58333333 0.91666667], [0.75       0.44444444 0.94444444], [0.75       0.58333333 0.91666667]
+Execution time is 91.716914
+
