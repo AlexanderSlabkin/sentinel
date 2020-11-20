@@ -1,2 +1,2 @@
 # sentinel
-Trees and graas trees and grass classification on ESA space images
+Trees and grass classification on ESA space images
